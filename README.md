@@ -1,6 +1,6 @@
 # Historywise Hazard Steering
 
-Reference implementation of a training-free decoding intervention that controls
+
 **when a language model stops**.
 
 At every decoding step the controller reads the probability mass the model
